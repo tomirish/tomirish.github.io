@@ -1,0 +1,11 @@
+Email
+<i class="fa-solid fa-envelope"></i>
+
+Linked In
+<i class="fa-brands fa-linkedin-in"></i>
+
+Phone
+<i class="fa-solid fa-phone"></i>
+
+Document / Resume
+<i class="fa-solid fa-file"></i>
