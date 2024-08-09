@@ -21,6 +21,9 @@ Demo Images:
 Icons:
 - Font Awesome | [fontawesome.io](https://fontawesome.com)
 
+Favicon:
+- Jlechuga86 | [Trébol de 4 hojas.svg](https://commons.wikimedia.org/wiki/File:Tr%C3%A9bol_de_4_hojas.svg)
+
 Other:
 - jQuery | [jquery.com](https://jquery.com)
 - Responsive Tools | [github.com/ajlkn/responsive-tools](https://github.com/ajlkn/responsive-tools)
