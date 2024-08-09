@@ -8,18 +8,18 @@ First of its kind on H5U! Astral features a flat, minimalistic design, a fully a
 Licensed under Creative Commons Attribution 3.0 Unported.
 
 ## Credits
-  Original Theme:  
-  - AJ aj@lkn.io | [@ajlkn][twitter]
+Original Theme:  
+- AJ aj@lkn.io | [@ajlkn][twitter]
 
-	Demo Images:
-	-	Unsplash (unsplash.com)
+Demo Images:
+- Unsplash (unsplash.com)
 
-	Icons:
-	-	Font Awesome (fontawesome.io)
+Icons:
+- Font Awesome (fontawesome.io)
 
-	Other:
-	-	jQuery (jquery.com)
-	-	Responsive Tools (github.com/ajlkn/responsive-tools)
+Other:
+- jQuery (jquery.com)
+- Responsive Tools (github.com/ajlkn/responsive-tools)
 
 [html5up]: https://html5up.net
 [license]: LICENSE.txt
