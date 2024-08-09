@@ -1560,6 +1560,14 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.image.frame {
+			display: block;
+			overflow: hidden;
+			width: 50%;
+			border-radius: 100%;
+			margin: 0 0 2em 0;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -2113,7 +2121,7 @@ input, select, textarea {
 
 						#main > .panel.intro .pic {
 							height: 25em;
-							width: 100%;
+							width: 25em;
 						}
 
 						#main > .panel.intro header {
@@ -2146,7 +2154,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.45);
 		text-align: center;
 		padding: 2em 0 0 0;
-		font-size: 0.75em;
+		font-size: 0.85em;
 	}
 
 		#footer a {
