@@ -1,25 +1,24 @@
-# Astral by HTML5 UP
-Original theme by [HTML5 UP][html5up]
+# Repository for [Tom.Irish](https://tom.irish)
+
 
 ## About Theme
+Original theme Astral by [HTML5 UP](https://html5up.net/astral).
+
 First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated interface (with noscript fallbacks), and styling for all basic page elements (including blockquotes, tables and lists). Enjoy!
 
 ## License
-Licensed under Creative Commons Attribution 3.0 Unported.
+Licensed under Creative Commons Attribution 3.0 Unported. Free for personal and commercial use. [html5up.net/license](https://html5up.net/license)
 
 ## Credits
 Original Theme:  
-- AJ aj@lkn.io | [@ajlkn][twitter]
+- AJ aj@lkn.io | [@ajlkn](https://x.com/ajlkn)
 
 Demo Images:
-- Unsplash (unsplash.com)
+- Unsplash | [unsplash.com](https://unsplash.com)
 
 Icons:
-- Font Awesome (fontawesome.io)
+- Font Awesome | [fontawesome.io](https://fontawesome.com)
 
 Other:
-- jQuery (jquery.com)
-- Responsive Tools (github.com/ajlkn/responsive-tools)
-
-[html5up]: https://html5up.net
-[license]: LICENSE.txt
+- jQuery | [jquery.com](https://jquery.com)
+- Responsive Tools | [github.com/ajlkn/responsive-tools](https://github.com/ajlkn/responsive-tools)
