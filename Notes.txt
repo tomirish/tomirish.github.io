@@ -11,3 +11,6 @@ Phone
 
 Document / Resume
 <i class="fa-solid fa-file"></i>
+
+Website Green Color - #008200
+RGB Decimal - (0,130,0)
