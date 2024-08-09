@@ -7,7 +7,9 @@ Original site template Astral by [HTML5 UP](https://html5up.net/astral).
 First of its kind on H5U! Astral features a flat, minimalistic design, a fully animated interface (with noscript fallbacks), and styling for all basic page elements (including blockquotes, tables and lists). Enjoy!
 
 ### License
-Licensed under Creative Commons Attribution 3.0 Unported. Free for personal and commercial use. [html5up.net/license](https://html5up.net/license)
+Licensed under Creative Commons Attribution 3.0 Unported.
+
+Free for personal and commercial use. [html5up.net/license](https://html5up.net/license)
 
 ### Credits
 Original Site Template:  
