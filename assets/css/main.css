@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		/* background-image: url("images/overlay.png"), url("images/bg.jpg"); */
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
@@ -1788,7 +1788,7 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #ffffff;
+			color: #9a9a9a;
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
@@ -1829,7 +1829,7 @@ input, select, textarea {
 			#nav a span {
 				display: block;
 				position: absolute;
-				background: #222222;
+				background: #333333;
 				color: #ffffff;
 				top: -2.75em;
 				font-size: 0.3em;
@@ -1852,13 +1852,14 @@ input, select, textarea {
 					bottom: -0.4em;
 					left: 50%;
 					margin-left: -0.6em;
-					border-top: solid 0.6em #222222;
+					border-top: solid 0.6em #333333;
 					border-left: solid 0.6em transparent;
 					border-right: solid 0.6em transparent;
 				}
 
 			#nav a:hover {
 				opacity: 1.0;
+				color: #333333;
 			}
 
 				#nav a:hover span {
@@ -1959,8 +1960,9 @@ input, select, textarea {
 		overflow: hidden;
 		width: 100%;
 		background: #ffffff;
-		/* remove bottom table shadow */
-		box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
+		/* remove bottom table shadow
+		box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25); */
+		box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
 		-moz-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
 		-webkit-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
 		-ms-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
@@ -2155,15 +2157,14 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: rgba(255, 255, 255, 0.45);
+		color: #9a9a9a;
 		text-align: center;
 		padding: 2em 0 0 0;
-		font-size: 1em;
+		font-size: 1.25em;
 	}
 
 		#footer a {
-			color: #ddd;
-			color: rgba(255, 255, 255, 0.65);
+			color: #9a9a9a;
 			-moz-transition: color .25s ease-in-out;
 			-webkit-transition: color .25s ease-in-out;
 			-ms-transition: color .25s ease-in-out;
@@ -2171,7 +2172,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: white;
+				color: #333333;
 			}
 
 		#footer .copyright {
@@ -2183,7 +2184,7 @@ input, select, textarea {
 				display: inline-block;
 				padding-left: 1em;
 				margin-left: 1em;
-				border-left: solid 1px rgba(255, 255, 255, 0.25);
+				border-left: solid 1px #9a9a9a;
 				line-height: 1;
 			}
 
