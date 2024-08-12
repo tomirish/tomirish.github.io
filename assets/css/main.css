@@ -1310,6 +1310,8 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
+		left:0;
+		right:0; 
 		overflow-y: scroll;
 	}
 
