@@ -1884,7 +1884,7 @@ input, select, textarea {
 
 	#wrapper {
 		width: 45em;
-		margin: 0 auto;
+		margin: auto auto;
 		min-height: 100vh;
 		max-width: 100%;
 		padding: 4em 0;
@@ -1893,7 +1893,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		-moz-flex-direction: column;
-		-webkit-flex-direction: center;
+		-webkit-flex-direction: column;
 		-ms-flex-direction: column;
 		flex-direction: column;
 		-moz-align-items: center;
