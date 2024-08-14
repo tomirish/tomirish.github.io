@@ -1564,8 +1564,8 @@ input, select, textarea {
 		.image.frame {
 			display: block;
 			overflow: hidden;
+			width: 60%;
 			border-radius: 100%;
-			margin: 0 0 2em 0;
 			margin: 2em 3.5em 2em 3.5em;
 		}
 
