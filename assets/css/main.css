@@ -1893,7 +1893,7 @@ input, select, textarea {
 		display: -ms-flex;
 		display: flex;
 		-moz-flex-direction: column;
-		-webkit-flex-direction: column;
+		-webkit-flex-direction: center;
 		-ms-flex-direction: column;
 		flex-direction: column;
 		-moz-align-items: center;
