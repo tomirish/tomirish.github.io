@@ -1992,7 +1992,7 @@ input, select, textarea {
 			}
 
 			#main > .panel.intro {
-				padding: 0;
+				padding: 5em;
 				height: 20em;
 				display: -moz-flex;
 				display: -webkit-flex;
@@ -2111,7 +2111,6 @@ input, select, textarea {
 					#main > .panel.intro header p {
 						letter-spacing: -0.015em;
 						font-size: 1.25em;
-						margin: 0.25em 0 0 0;
 					}
 
 				@media screen and (max-width: 980px) {

@@ -14,3 +14,8 @@ Document / Resume
 
 Website Green Color - #008200
 RGB Decimal - (0,130,0)
+
+&nbsp;&nbsp;
+        <li><a href="mailto:tom@tom.irish" target="_blank" class="icon solid fa-envelope"><span></span></a></li>
+		<li><a href="tel:2532994348" target="_blank" class="icon solid fa-phone"><span></span></a></li>
+		<li><a href="https://www.linkedin.com/in/tom-irish" target="_blank" class="icon brands fa-linkedin"><span></span></a></li>
