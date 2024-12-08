@@ -1,46 +1,37 @@
 /*
-	Astral by HTML5 UP
+	Dimension by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Wrapper */
+/* BG */
 
-	#wrapper {
-		opacity: 1 !important;
+	body.is-preload #bg:before {
+		background-color: transparent;
 	}
 
-/* Nav */
+/* Header */
 
-	#nav a {
-		opacity: 1.0;
+	body.is-preload #header {
+		-moz-filter: none;
+		-webkit-filter: none;
+		-ms-filter: none;
+		filter: none;
 	}
 
-		#nav a:before, #nav a:after {
-			display: none;
+		body.is-preload #header > * {
+			opacity: 1;
 		}
 
-		#nav a span {
-			top: 0;
-			opacity: 1.0;
+		body.is-preload #header .content .inner {
+			max-height: none;
+			padding: 3rem 2rem;
+			opacity: 1;
 		}
-
-			#nav a span:after {
-				display: none;
-			}
 
 /* Main */
 
-	#main {
-		background: none;
-		box-shadow: none;
+	#main article {
+		opacity: 1;
+		margin: 4rem 0 0 0;
 	}
-
-		#main > .panel {
-			background: #ffffff;
-			margin-bottom: 2em;
-		}
-
-			#main > .panel:last-child {
-				margin-bottom: 0;
-			}
