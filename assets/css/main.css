@@ -606,10 +606,6 @@ input, select, textarea {
 		position: relative;
 	}
 
-	.icon img {
-		transform: translateX(0%) translateY(16%);
-	}
-
 		.icon:before {
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
@@ -723,6 +719,65 @@ input, select, textarea {
 			}
 
 		}
+
+/* Image Tom Irish*/
+
+		.TIimage {
+			display: block;
+			line-height: 0;
+			max-width: 100%;
+			position: relative;
+		}
+		
+		.TIimage .frame {
+			-webkit-backface-visibility: hidden;
+			-webkit-transform: translate3d(0, 0, 0);
+			display: inline-block;
+			max-width: 100%;
+			overflow: hidden;
+			vertical-align: top;
+			width: 100%;
+		}
+		
+		.TIimage .frame img {
+			border-radius: 0 !important;
+			max-width: 100%;
+			vertical-align: top;
+			width: inherit;
+		}
+		
+		.TIimage.full .frame {
+			display: block;
+		}
+		
+		.TIimage.full:first-child .frame {
+			border-top-left-radius: inherit;
+			border-top-right-radius: inherit;
+		}
+		
+		.TIimage.full:last-child .frame {
+			border-bottom-left-radius: inherit;
+			border-bottom-right-radius: inherit;
+		}
+		
+		#Tom-Irish:not(:first-child) {
+			margin-top: 0rem !important;
+		}
+		
+		#Tom-Irish:not(:last-child) {
+			margin-bottom: 0rem !important;
+		}
+		
+		#Tom-Irish .frame {
+			width: 12rem;
+			border-radius: 100%;
+			transition: none;
+		}
+		
+		#Tom-Irish .frame img {
+			transition: none;
+		}
+
 
 /* List */
 
@@ -1311,7 +1366,8 @@ input, select, textarea {
 			border-color: #ffffff;
 			border-top-width: 1px;
 			border-bottom-width: 1px;
-			max-width: 100%;
+			min-width: 100%;
+
 		}
 
 			#header .content .inner {
